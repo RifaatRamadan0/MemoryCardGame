@@ -9,4 +9,4 @@ Welcome to the Memory Card Game! This is a classic game where the objective is t
 - Sound animations for a better gaming experience  
 
 ## Demo  
-[Try This Game and test your memory -> ](https://rifaat12ramadan.github.io/)  
+[Try This Game and test your memory:) ](https://rifaat12ramadan.github.io/)  
