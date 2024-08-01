@@ -8,5 +8,10 @@ Welcome to the Memory Card Game! This is a classic game where the objective is t
 - Single-player mode  
 - Sound animations for a better gaming experience  
 
+## Technology Used
+- HTML
+- CSS
+- JavaScript
+
 ## Demo  
 [Try This Game and test your memory :) ](https://rifaat12ramadan.github.io/)  
