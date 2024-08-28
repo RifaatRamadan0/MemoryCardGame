@@ -13,4 +13,4 @@ Welcome to the Memory Card Game! This is a classic game where the objective is t
 - CSS
 - JavaScript
 
-[Try This Game and test your memory :) ](https://rifaat12ramadan.github.io/)  
+[Try This Game and test your memory :) ](https://rifaatramadan0.github.io/MemoryCardGame/)  
