@@ -1,4 +1,4 @@
-let images = ["/image/apple.jpg", "/image/amazon.jpg", "/image/facebook.jpg", "/image/google.png", "/image/microsoft.png", "/image/samsung.png", "/image/apple.jpg", "/image/amazon.jpg", "/image/facebook.jpg", "/image/google.png", "/image/microsoft.png", "/image/samsung.png"];
+let images = ["/images/apple.jpg", "/images/amazon.jpg", "/images/facebook.jpg", "/images/google.png", "/images/microsoft.png", "/images/samsung.png", "/images/apple.jpg", "/images/amazon.jpg", "/images/facebook.jpg", "/images/google.png", "/images/microsoft.png", "/images/samsung.png"];
 
 let numCard = 12;
 let matched = 0;
